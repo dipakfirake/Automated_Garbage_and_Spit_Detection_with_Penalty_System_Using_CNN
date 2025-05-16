@@ -1,0 +1,1 @@
+# Automated_Garbage_and_Spit_Detection_with_Penalty_System_Using_CNN
